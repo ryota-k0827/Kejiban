@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* CSS Document */
+*{
+    background-color: gainsboro;
+}
+
+.name{
+    color: green;
+    font-size: 20px;
+}
+
+.genre{
+    color: #3EABDB;
+}
